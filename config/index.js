@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oO-276cxh-t7qbweP0szbo4FofhY",
+      id: "oO-276W1l31uzFAttRepgnotK1ow",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "RqQMCfAHnjWy1Cys6zTst5NT9j25SCuKTlz5ljB5Ukg",
       // 所在省份
@@ -52,7 +52,7 @@ export const config = {
         //{"type": "*生日", "name": "老婆", "year": "1007", "date": "04-10"},
         //{"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "老婆", "year": "1997", "date": "04-10"}
+        {"type": "生日", "name": "宝", "year": "1997", "date": "04-10"}
         //{"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
